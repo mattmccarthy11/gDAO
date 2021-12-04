@@ -1,6 +1,8 @@
-# rateForNeutral.sol
+---
+description: This function takes a neutral bitcoin and sets the offset rate for it
+---
 
-this function takes a neutral bitcoin and sets the rate for it&#x20;
+# rateForNeutral.sol
 
 
 

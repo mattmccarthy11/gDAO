@@ -1,0 +1,2 @@
+# mintNegative.sol
+
