@@ -13,7 +13,7 @@
 * [white paper](tokenomics/white-paper.md)
 * [Maribor University](tokenomics/maribor-university.md)
 * [gBTC variables & functions](tokenomics/gbtc-variables-and-functions.md)
-* [mintGBTC](tokenomics/mintgbtc.md)
+* [mintGBTC.sol](tokenomics/mintgbtc.sol.md)
 * [OffsetRatio.sol](tokenomics/offsetratio.sol.md)
 * [isNeutralBTC.sol](tokenomics/isneutralbtc.sol.md)
 * [rateForNeutral.sol](tokenomics/rateforneutral.sol.md)
