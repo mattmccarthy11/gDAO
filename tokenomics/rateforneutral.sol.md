@@ -6,6 +6,10 @@ this function takes a neutral bitcoin and sets the rate for it&#x20;
 
 imports isNeutralBTC;
 
+uint neutralRate;
+
+
+
 
 
 if ( isNeutralBTC == true )&#x20;

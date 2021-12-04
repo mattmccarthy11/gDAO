@@ -32,6 +32,20 @@ else&#x20;
 
 
 
+//validate NFT is Positive
+
+function validatePositive
+
+if ( isNeutralBTC() == false  )
+
+return true;
+
+else&#x20;
+
+'this is an address with carbon neutral origin please use another pool'&#x20;
+
+
+
 //getters&#x20;
 
 function getCoalOffsetRate()
