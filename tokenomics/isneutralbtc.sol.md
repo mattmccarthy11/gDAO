@@ -1,6 +1,8 @@
 # isNeutralBTC.sol
 
-the purpose of this contract is to rate the source of the BTC carbon Neutral if it comes from a wallet with an NFT in it. This contract returns true if the ownerOf called on the carbon NFT returns true.&#x20;
+the purpose of this contract is to rate the source of the BTC carbon Neutral if it comes from a wallet with an NFT in it. This contract returns true if the ownerOf called on the carbon NFT&#x20;
+
+returns true if the nft is&#x20;
 
 
 

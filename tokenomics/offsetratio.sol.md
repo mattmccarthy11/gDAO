@@ -1,8 +1,10 @@
 # OffsetRatio.sol
 
-contract{
+import rateforPostive;
 
-uint ratio;
+import isneutralBTC;
+
+contract{
 
 uint assetToOffset
 

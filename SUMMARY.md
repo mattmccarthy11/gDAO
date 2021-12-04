@@ -16,6 +16,8 @@
 * [mintGBTC](tokenomics/mintgbtc.md)
 * [OffsetRatio.sol](tokenomics/offsetratio.sol.md)
 * [isNeutralBTC.sol](tokenomics/isneutralbtc.sol.md)
+* [rateForNeutral.sol](tokenomics/rateforneutral.sol.md)
+* [rateForPositive.sol](tokenomics/rateforpositive.sol.md)
 
 ## Fundamentals
 
