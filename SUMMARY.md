@@ -11,6 +11,7 @@
 * [RoadMap](tokenomics/roadmap.md)
 * [What is pGDAO Token](tokenomics/what-is-pgdao-token.md)
 * [gBTC mint Architecture](tokenomics/gbtc-mint-architecture.md)
+* [Tokens](tokenomics/tokens.md)
 * [Contracts](tokenomics/contracts.md)
 * [Bonding](tokenomics/bonding.md)
 * [white paper](tokenomics/white-paper.md)
